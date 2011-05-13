@@ -25,7 +25,7 @@ end
 gem "meta_search",    '>= 0.9.2'
 gem 'devise',         '>= 1.1.2'
 gem 'formtastic',     '>= 1.1.0'
-gem 'will_paginate',  '>= 3.0.pre2'
+gem 'will_paginate'
 gem 'inherited_views'
 gem 'haml',           '>= 3.0.18'
 
