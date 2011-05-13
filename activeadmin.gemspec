@@ -322,7 +322,7 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<meta_search>, [">= 0.9.2"])
       s.add_runtime_dependency(%q<devise>, [">= 1.1.2"])
       s.add_runtime_dependency(%q<formtastic>, [">= 1.1.0"])
-      s.add_runtime_dependency(%q<will_paginate>, [">= 3.0.pre2"])
+      s.add_runtime_dependency(%q<will_paginate>, [">= 2.0"])
       s.add_runtime_dependency(%q<inherited_views>, [">= 0"])
       s.add_runtime_dependency(%q<haml>, [">= 3.0.18"])
       s.add_development_dependency(%q<sqlite3-ruby>, [">= 0"])
